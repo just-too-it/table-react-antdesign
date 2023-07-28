@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/table-react-antdesign/static/css/main.5465acf4.css",
+    "main.js": "/table-react-antdesign/static/js/main.057b809f.js",
+    "index.html": "/table-react-antdesign/index.html",
+    "main.5465acf4.css.map": "/table-react-antdesign/static/css/main.5465acf4.css.map",
+    "main.057b809f.js.map": "/table-react-antdesign/static/js/main.057b809f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5465acf4.css",
+    "static/js/main.057b809f.js"
+  ]
+}
