@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -10,23 +11,36 @@
     "@types/node": "^16.18.39",
     "@types/react": "^18.2.16",
     "@types/react-dom": "^18.2.7",
+    "antd": "^5.7.3",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
+    "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/uuid": "^9.0.2",
+    "@typescript-eslint/eslint-plugin": "^5.12.1",
+    "@typescript-eslint/parser": "^5.12.1",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.29.2",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "sass": "^1.64.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
