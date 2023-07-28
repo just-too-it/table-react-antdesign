@@ -33,5 +33,5 @@
 
 
 ## Deploy  
-
+https://just-too-it.github.io/table-react-antdesign/
 
